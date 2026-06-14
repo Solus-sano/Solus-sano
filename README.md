@@ -5,4 +5,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Solus-sano&show_icons=true&locale=en&theme=nord"  width="33.3%" alt="Solus-sano" /></p>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Solus-sano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Solus-sano&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
